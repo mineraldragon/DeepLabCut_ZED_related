@@ -1,10 +1,13 @@
 # DeepLabCut_ZED_related
 Converting ZED camera data to real world coordinates and retrieve z-coordinate
 
-Copy all dll’s from the ZED SDK into the folder where the python scripts are located
+## steps
 
-Create a virtual environment with opencv installed
+1. Copy all dll’s from the ZED SDK into the folder where the python scripts are located
 
+2. Create a virtual environment with opencv installed
+
+3. Process files
 For processing only one session:
 ‘depth_sensing5_3animals.py’ 
 Or
