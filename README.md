@@ -1,4 +1,5 @@
-# DeepLabCut_ZED_related
+# ZED_real_world_coordinates_and_z-coordinate
+
 Converting ZED camera data to real world coordinates and retrieve z-coordinate
 
 ## Steps
