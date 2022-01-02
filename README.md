@@ -1,7 +1,7 @@
 # DeepLabCut_ZED_related
 Converting ZED camera data to real world coordinates and retrieve z-coordinate
 
-## steps
+## Steps
 
 1. Copy all dll’s from the ZED SDK into the folder where the python scripts are located
 
