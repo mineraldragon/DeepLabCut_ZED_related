@@ -36,6 +36,16 @@ Or
 You import the depth sensing script into the batch script. The batch script operates on a folder you hard code in the batch script
 
 
+## Svo to avi conversion
+
+<url>https://support.stereolabs.com/hc/en-us/articles/360009986754-How-do-I-convert-SVO-files-to-AVI-or-image-depth-sequences-</url>
+
+Open a command prompt with administrator privileges 
+Activate environment with opencv installed
+To convert, type:
+<code>python svo_export.py "path-to-svo-file" "path-to-avi-file" 1</code>
+
+
 Rogier Landman Broad Institute, MIT, 2022
 
 
