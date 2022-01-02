@@ -42,8 +42,12 @@ You import the depth sensing script into the batch script. The batch script oper
 
 Open a command prompt with administrator privileges 
 Activate environment with opencv installed
+
 To convert, type:
+
 <code>python svo_export.py "path-to-svo-file" "path-to-avi-file" 1</code>
+
+
 
 
 Rogier Landman Broad Institute, MIT, 2022
